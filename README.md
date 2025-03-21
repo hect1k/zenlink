@@ -25,7 +25,7 @@ Zen Link uses **Docker Compose** to manage both the app container and PostgreSQL
 Clone the Zen Link repository to your local machine or server:
 
 ```bash
-git clone https://github.com/nnisarggada/zenlink
+git clone https://github.com/hect1k/zenlink
 cd zenlink
 ```
 

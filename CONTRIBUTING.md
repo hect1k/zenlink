@@ -23,11 +23,11 @@ Before contributing, please review our [Code of Conduct](CODE_OF_CONDUCT.md). We
 
 ### Reporting Bugs
 
-If you encounter a bug while using Zen Link or have identified a potential issue, please [open a new issue](https://github.com/nnisarggada/zenlink/issues/new) on our GitHub repository. Ensure that your report includes detailed information about the problem, such as the steps to reproduce it and any relevant error messages.
+If you encounter a bug while using Zen Link or have identified a potential issue, please [open a new issue](https://github.com/hect1k/zenlink/issues/new) on our GitHub repository. Ensure that your report includes detailed information about the problem, such as the steps to reproduce it and any relevant error messages.
 
 ### Suggesting Enhancements
 
-If you have ideas for new features or improvements to existing ones, feel free to [create an enhancement request](https://github.com/nnisarggada/zenlink/issues/new) on GitHub. Be clear and specific about the proposed enhancement and how it would benefit Zen Link.
+If you have ideas for new features or improvements to existing ones, feel free to [create an enhancement request](https://github.com/hect1k/zenlink/issues/new) on GitHub. Be clear and specific about the proposed enhancement and how it would benefit Zen Link.
 
 ### Submitting Changes
 
@@ -57,7 +57,7 @@ Ensure you have the following prerequisites installed:
 Clone the Zen Link repository to your server:
 
 ```bash
-git clone https://github.com/nnisarggada/zenlink
+git clone https://github.com/hect1k/zenlink
 cd zenlink
 ```
 
