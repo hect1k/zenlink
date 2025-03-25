@@ -1,6 +1,8 @@
-# Zen Link - Simple URL Shortener
+# ZenLink - Simple URL Shortener
 
-Zen Link is a lightweight, web-based URL shortening service that allows you to shorten long URLs quickly and easily. With Zen Link, you can create custom shortened links, making it easier to share and manage your URLs.
+ZenLink is a lightweight, web-based URL shortening service that allows you to shorten long URLs quickly and easily. With Zen Link, you can create custom shortened links, making it easier to share and manage your URLs.
+
+![ZenLink banner](https://nnisarg.in/images/projects/zenlink.jpg)
 
 ## Features
 
